@@ -1,359 +1,359 @@
-,id_segunda_mano,version,kilometraje,tipo,anio,motor,potencia,precio,provincia
-0,1,Nissan Qashqai 1.2 DIG-T Acenta 4x2,121649,Manual,2015,Gasolina,116,11480,Madrid
-1,2,Nissan Juke 1.5dCi Visia,260000,Manual,2012,Diésel,110,6500,Madrid
-2,3,Nissan Qashqai DIG-T 103kW (140CV) mHEV 4x2 Acenta,11290,Manual,2023,Electro/Gasolina,140,22000,Madrid
-3,4,Nissan Juke 1.6 N-Connecta 4x2 112,46287,Manual,2019,Gasolina,113,11790,Madrid
-4,5,Nissan Qashqai 1.6dCi Visia 4x2,178000,Manual,2018,Diésel,131,13900,Madrid
-5,6,Nissan Qashqai DIG-T 103kW (140CV) mHEV 4x2 Acenta,77613,Manual,2021,Electro/Gasolina,140,17270,Madrid
-6,7,Nissan X-Trail 1.6 dCi Acenta 4x2,269000,Manual,2016,Diésel,131,9500,Madrid
-7,8,Nissan Juke 1.6i Tekna Sport CVT,77811,Automático,2013,Gasolina,117,9999,Madrid
-8,9,Nissan Juke DIG-T 84 kW (114 CV) 6M/T N-Connecta,74140,Manual,2021,Gasolina,114,14180,Madrid
-9,10,Nissan Qashqai 1.5dCi N-Connecta 4x2 85kW,81844,Manual,2019,Diésel,116,15809,Madrid
-10,11,Nissan Qashqai 1.5dCi Tekna Premium 4x2 17´´,140000,Manual,2013,Diésel,110,7800,Madrid
-11,12,Nissan Qashqai 1.3 DIG-T Acenta 4x2 103kW,42854,Manual,2020,Gasolina,140,17495,Madrid
-12,13,Nissan Qashqai Q+2 1.6dCi S&S Tekna Sport 4x2 18´´,95830,Manual,2012,Diésel,131,11450,Madrid
-13,14,Nissan Pulsar 1.2 DIG-T Visia,93103,Manual,2016,Gasolina,116,10300,Madrid
-14,15,Nissan X-Trail Acenta,169383,Manual,2015,Diésel,131,13500,Madrid
-15,16,Nissan Micra IG-T Acenta 92,31361,Manual,2022,Gasolina,92,11190,Madrid
-16,17,Nissan X-Trail 1.6 DIG-T N-Connecta 4x2 7 pl.,69742,Automático,2020,Gasolina,163,21090,Madrid
-17,18,Nissan Leaf 40 kWh Acenta,8502,Automático,2019,Eléctrico,218,13890,Madrid
-18,19,Nissan Micra IG-T Acenta 92,28887,Manual,2022,Gasolina,92,11190,Madrid
-19,20,Nissan Pulsar 1.2 DIG-T Visia,93103,Manual,2016,Gasolina,116,10300,Madrid
-20,22,Nissan X-Trail 1.7 dCi N-Connecta 4x2 CVT,60101,Automático,2020,Diésel,150,21364,Madrid
-21,23,Nissan Micra IG-T Acenta 92,26131,Manual,2023,Gasolina,92,11790,Madrid
-22,24,Nissan Qashqai DIG-T 103kW (140CV) mHEV 4x2 Acenta,20871,Manual,2023,Electro/Gasolina,140,21810,Madrid
-23,25,Nissan Qashqai 1.3 DIG-T Acenta 4x2 103kW,35565,Manual,2020,Gasolina,140,17690,Madrid
-24,26,Nissan Qashqai DIG-T 103kW (140CV) mHEV 4x2 Acenta,94919,Manual,2021,Electro/Gasolina,140,16630,Madrid
-25,27,Nissan Pulsar 1.2 DIG-T Visia,93103,Manual,2016,Gasolina,116,10300,Madrid
-26,28,Nissan Micra IG-T N-Connecta 100,83112,Manual,2020,Gasolina,101,11600,Madrid
-27,29,Nissan Micra IG-T Acenta 92,32472,Manual,2022,Gasolina,92,11190,Madrid
-28,30,Nissan Micra IG-T N-Connecta 100,63473,Manual,2019,Gasolina,101,11600,Madrid
-29,31,Nissan Qashqai 1.5 Acenta,97373,Manual,2018,Diésel,110,15299,Madrid
-30,32,Nissan Qashqai dCi 150CV (110kW) 4WD ACENTA,178577,Manual,2019,Diésel,150,17500,Madrid
-31,33,Nissan Juke 5P 1.6 HYBRID 105 KW (143 CV) E6D-F AUTO N-DESIGN,2737,Automático,2024,Eléctrico,145,24250,Madrid
-32,34,Nissan Qashqai 1.3 DIG-T N-Style 4x2 103kW,64634,Automático,2021,Gasolina,140,18190,Madrid
-33,35,Nissan Qashqai 1.6dCi 360 4x2 XTronic,175000,Automático,2014,Diésel,131,12900,Madrid
-34,36,Nissan Micra IG-T Acenta 92,32984,Manual,2022,Gasolina,92,11190,Madrid
-35,37,Nissan Micra IG-T N-Connecta 100,39885,Manual,2020,Gasolina,101,12600,Madrid
-36,38,Nissan Qashqai 1.3 DIG-T mHEV 12V N-Connecta 4x2 103kW,34763,Manual,2023,Gasolina,140,23545,Madrid
-37,39,Nissan Qashqai 1.3 DIG-T mHEV 12V N-Connecta 4x2 103kW,34763,Manual,2023,Gasolina,140,23545,Madrid
-38,40,Nissan Qashqai 1.3 DIG-T mHEV 12V N-Connecta 4x2 103kW,37544,Manual,2023,Gasolina,140,23545,Madrid
-39,41,Nissan Qashqai 1.3 DIG-T mHEV 12V N-Connecta 4x2 Aut. 116kW,8028,Automático,2024,Gasolina,158,25890,Madrid
-40,43,Nissan Micra IG-T Acenta Sprint 92,56343,Manual,2023,Gasolina,92,12900,Madrid
-41,44,Nissan Qashqai 1.3 DIG-T Acenta 4x2 103kW,50258,Manual,2021,Gasolina,140,18182,Madrid
-42,45,Nissan Juke G E6D-Temp 83 kW (112 CV) 5M/T ACENTA,70732,Manual,2019,Gasolina,113,12500,Madrid
-43,46,Nissan Juke G E6D-Temp 83 kW (112 CV) 5M/T ACENTA,112361,Manual,2018,Gasolina,113,13990,Madrid
-44,47,Nissan Qashqai 1.3 DIG-T mHEV 12V N-GO 4x2 103kW,60000,Manual,2021,Gasolina,140,18000,Madrid
-45,48,Nissan Qashqai dCi 150CV (110kW) 4WD ACENTA,148651,Manual,2019,Diésel,150,18200,Madrid
-46,49,Nissan Qashqai dCi 150CV (110kW) 4WD ACENTA,159231,Manual,2019,Diésel,150,17900,Madrid
-47,50,Nissan Micra IG-T Acenta Sprint 92,63756,Manual,2022,Gasolina,92,12600,Madrid
-48,51,Nissan X-Trail 1.6 dCi Tekna 4x2 XTronic,82244,Automático,2018,Diésel,131,23000,Madrid
-49,52,Nissan Micra Acenta IG-T 92cv. *IVA deducible* *31.000 km* *202,30000,Manual,2022,Gasolina,92,12990,Madrid
-50,53,Nissan Qashqai 1.3 DIG-T mHEV 12V N-Connecta 4x2 Aut. 116kW,4370,Automático,2024,Gasolina,158,26390,Madrid
-51,54,Nissan Qashqai DIG-T 116kW (158CV) mHEV 4x2 Tekna,42168,Manual,2022,Electro/Gasolina,158,20990,Madrid
-52,55,Nissan Micra IG-T 68 kW (92 CV) E6D-F Acenta,50268,Manual,2022,Gasolina,92,14500,Madrid
-53,56,Nissan Micra 1.0 G Acenta 73,112000,Manual,2017,Gasolina,73,11400,Madrid
-54,57,Nissan Qashqai 1.3 DIG-T MHEV 103KW N-CONNECTA 5P 2WD,9190,Manual,2023,Gasolina,140,26250,Madrid
-55,58,Nissan Qashqai DIG-T 103kW (140CV) mHEV 4x2 Acenta,15000,Manual,2023,Electro/Gasolina,140,23630,Madrid
-56,59,Nissan Micra IG-T N-Desing Chrome 92,25354,Manual,2021,Gasolina,92,12900,Madrid
-57,60,Nissan Qashqai DIG-T 103kW N-Connecta,32898,Manual,2023,Electro/Gasolina,140,25900,Madrid
-58,61,Nissan Juke DIG-T 84 kW (114 CV) 6M/T Acenta,68923,Manual,2022,Gasolina,114,18900,Madrid
-59,62,Nissan Juke DIG-T 84 kW (114 CV) DCT 7 Vel. Enigma,66054,Automático,2022,Gasolina,114,20990,Madrid
-60,85,Nissan Qashqai DIG-T 103kW (140CV) mHEV 4x2 Acenta,23598,Manual,2023,Electro/Gasolina,140,21810,Madrid
-61,86,Nissan Qashqai DIG-T 103kW (140CV) mHEV 4x2 N-Connecta,53379,Manual,2021,Electro/Gasolina,140,20090,Madrid
-62,87,Nissan Qashqai DIG-T 103kW (140CV) mHEV 4x2 Acenta,13219,Manual,2023,Electro/Gasolina,140,21810,Madrid
-63,88,Nissan Qashqai DIG-T 103kW (140CV) mHEV 4x2 Acenta,10846,Manual,2023,Electro/Gasolina,140,22090,Madrid
-64,89,Nissan Juke 1.0 DIG-T N-Connecta 4x2 117,103571,Manual,2020,Gasolina,117,13790,Madrid
-65,90,Nissan Qashqai dCi 85 kW (115 CV) E6D N-CONNECTA,59224,Manual,2020,Diésel,116,16810,Madrid
-66,91,Nissan Juke 1.0 DIG-T Enigma 4x2 DCT 7 114,31663,Automático,2021,Gasolina,114,19650,Madrid
-67,92,Nissan Qashqai 1.6 dCi XTRONIC TEKNA ALCANTARA,115372,Automático,2017,Diésel,131,16813,Madrid
-68,93,Nissan Qashqai DIG-T 103kW (140CV) mHEV 4x2 Acenta,15000,Manual,2023,Electro/Gasolina,140,23630,Madrid
-69,94,Nissan Qashqai DIG-T 116kW (158CV) mHEV Xtronic Acenta,10,Automático,2023,Electro/Gasolina,158,26000,Madrid
-70,95,Nissan Qashqai DIG-T 103kW (140CV) mHEV 4x2 Acenta,15118,Manual,2023,Electro/Gasolina,140,23630,Madrid
-71,96,Nissan Micra IG-T Acenta Sprint 92,15870,Manual,2023,Gasolina,92,13990,Madrid
-72,97,Nissan Qashqai 1.3 DIG-T mHEV 12V N-Connecta 4x2 103kW,12579,Manual,2023,Electro/Gasolina,140,25495,Madrid
-73,98,Nissan Qashqai DIG-T 116kW Xtronic N-Connecta,33524,Automático,2021,Electro/Gasolina,158,21810,Madrid
-74,99,Nissan Juke DIG-T 84 kW (114 CV) 6M/T N-Connecta,37085,Manual,2021,Gasolina,114,15810,Madrid
-75,100,Nissan Qashqai DIG-T 103kW (140CV) mHEV 4x2 Acenta,16574,Manual,2023,Electro/Gasolina,140,23630,Madrid
-76,101,Nissan Qashqai 1.5dCi N-Connecta 4x2,80886,Manual,2018,Diésel,110,17250,Madrid
-77,102,Nissan Qashqai DIG-T 103kW (140CV) mHEV 4x2 Acenta,15000,Manual,2023,Electro/Gasolina,140,23630,Madrid
-78,103,Nissan Qashqai DIG-T 116kW (158CV) mHEV Xtronic Acenta,40817,Automático,2021,Electro/Gasolina,158,21810,Madrid
-79,104,Nissan Qashqai 1.3 DIG-T mHEV 12V Acenta 4x2 Aut. 116kW,8934,Automático,2023,Gasolina,158,27990,Madrid
-80,106,Nissan Qashqai N-Style DIG-T 140CV E6D,79900,Manual,2021,Gasolina,140,18990,Madrid
-81,107,Nissan Qashqai DIG-T 103kW (140CV) mHEV 4x2 Acenta,15000,Manual,2023,Electro/Gasolina,140,23630,Madrid
-82,108,Nissan Qashqai DIG-T 103kW (140CV) mHEV 4x2 Acenta,13291,Manual,2023,Electro/Gasolina,140,23630,Madrid
-83,109,Nissan Qashqai DIG-T 103kW (140CV) mHEV 4x2 Acenta,15000,Manual,2023,Electro/Gasolina,140,23630,Madrid
-84,110,Nissan Qashqai DIG-T 103kW (140CV) mHEV 4x2 Acenta,15000,Manual,2023,Electro/Gasolina,140,23630,Madrid
-85,111,Nissan Qashqai DIG-T 103kW (140CV) mHEV 4x2 Acenta,15000,Manual,2023,Electro/Gasolina,140,23630,Madrid
-86,112,Nissan Qashqai DIG-T 103kW (140CV) mHEV 4x2 Acenta,15000,Manual,2023,Electro/Gasolina,140,23630,Madrid
-87,113,Nissan Micra IG-T Acenta Sprint 92,27029,Manual,2022,Gasolina,92,14943,Madrid
-88,114,Nissan Qashqai DIG-T 103kW (140CV) mHEV 4x2 Acenta,15000,Manual,2023,Electro/Gasolina,140,23630,Madrid
-89,115,Nissan Qashqai 1.3 DIG-T mHEV 12V N-GO 4x2 103kW,82044,Manual,2022,Electro/Gasolina,140,21995,Madrid
-90,116,Nissan Qashqai DIG-T 103kW (140CV) mHEV 4x2 Acenta,15000,Manual,2023,Electro/Gasolina,140,23630,Madrid
-91,117,Nissan Micra IG-T Acenta Sprint 92,26125,Manual,2023,Gasolina,92,14943,Madrid
-92,118,Nissan Micra IG-T Acenta Sprint 92,33996,Manual,2023,Gasolina,92,14943,Madrid
-93,119,Nissan Micra IG-T Acenta Sprint 92,69000,Manual,2022,Gasolina,92,13695,Madrid
-94,120,Nissan Qashqai DIG-T 103 kW (140 CV) E6D N-CONNECTA,34000,Manual,2020,Gasolina,140,20490,Madrid
-95,121,Nissan X-Trail 7P DIG-T 120 kW (160 CV) E6D DCT N-CONN.,58716,Automático,2021,Gasolina,163,22540,Madrid
-96,122,Nissan Qashqai 1.5 EREV E-POWER N-CONNECTA AUTO 190 5P,25802,Automático,2023,Electro/Gasolina,190,27830,Madrid
-97,123,Nissan Qashqai E-POWER 140 KW (190 CV) AUTOM. 4X2 TEKNA,6386,Automático,2023,Gasolina,190,35250,Madrid
-98,124,Nissan Leaf FLEX Acenta,150000,Automático,2014,Eléctrico,109,8500,Madrid
-99,125,Nissan Qashqai 1.3 DIG-T mHEV 12V Tekna + 4x2 Aut. 116kW,21100,Automático,2023,Gasolina,158,32950,Madrid
-100,148,Nissan Qashqai 1.5 Turbodiesel Acenta,91644,Manual,2015,Diésel,110,12799,Madrid
-101,149,Nissan Juke 1.5dCi N-Connecta 4x2,74000,Manual,2019,Diésel,110,11990,Madrid
-102,150,Nissan Qashqai 2.0 Acenta 4x2,213000,Manual,2008,Gasolina,141,6500,Madrid
-103,151,Nissan Juke dCi E6C 81 kW (110 CV) 6M/T N-CONNECTA,97200,Manual,2018,Diésel,110,11990,Madrid
-104,152,Nissan Qashqai+2 Q+2 2.0dCi Tekna Sport 4x2 18´´,137000,Manual,2009,Diésel,150,8000,Madrid
-105,153,Nissan Leaf 40 kWh N-Connecta,32036,Automático,2019,Eléctrico,150,12490,Madrid
-106,154,Nissan X-Trail 1.7 dCi Acenta 4x4-i 7 pl.,189950,Manual,2019,Diésel,150,13150,Madrid
-107,155,Nissan Patrol Pick-Up Corto,160000,Manual,1993,Diésel,84,4100,Madrid
-108,156,Nissan Leaf 40 kWh Acenta,69000,Automático,2019,Eléctrico,150,12990,Madrid
-109,157,Nissan Micra 1.2 Acenta,123000,Manual,2016,Gasolina,80,6450,Madrid
-110,158,Nissan Qashqai 1.3 DIG-T Acenta 4x2 103kW,46253,Manual,2019,Gasolina,140,15636,Madrid
-111,159,Nissan Micra IG-T Acenta 100,19878,Manual,2022,Gasolina,101,12380,Madrid
-112,160,Nissan Juke 1.6i Visia,72051,Manual,2019,Gasolina,117,11713,Madrid
-113,161,Nissan Leaf Visia 30KWh,55260,Automático,2018,Eléctrico,109,6900,Madrid
-114,162,Nissan Qashqai 1.5dCi Acenta 4x2,136837,Manual,2008,Diésel,106,7990,Madrid
-115,163,Nissan Juke 1.2 DIG-T N-TEC 4X2 Ext1 Rojo,123500,Manual,2014,Gasolina,116,9290,Madrid
-116,164,Nissan Qashqai Q+2 1.5dCi Acenta 4x2,230000,Manual,2012,Diésel,110,7500,Madrid
-117,165,Nissan Juke Juke+1.6i+Acenta+Acenta,209000,Manual,2010,Gasolina,117,6500,Madrid
-118,166,Nissan Juke 1.5dCi Acenta 4x2,54699,Manual,2016,Diésel,110,12450,Madrid
-119,167,Nissan Qashqai 1.6dCi S&S Acenta 4x2,193000,Manual,2012,Diésel,131,8999,Madrid
-120,169,Nissan Qashqai Q+2 1.6 Acenta 4x2,222000,Manual,2010,Gasolina,114,5900,Madrid
-121,170,Nissan Leaf 40 kWh Acenta Access,5825,Automático,2020,Eléctrico,150,14990,Madrid
-122,171,Nissan Micra IG-T Acenta Sprint 92,42710,Manual,2023,Gasolina,92,12990,Madrid
-123,172,Nissan Qashqai 2.0dCi Tekna Sport 4x2 18´´,360000,Manual,2010,Diésel,150,4000,Madrid
-124,173,Nissan Micra IG-T Acenta 92,60448,Manual,2021,Gasolina,92,11272,Madrid
-125,174,Nissan Qashqai 1.5dCi Acenta 4x2,160000,Manual,2009,Diésel,106,7800,Madrid
-126,175,Nissan Leaf 40kWh Tekna Bitono,52780,Automático,2018,Eléctrico,54,10490,Madrid
-127,176,Nissan Juke 1.0 DIG-T N-Connecta 4x2 114,28329,Manual,2022,Gasolina,114,15999,Madrid
-128,177,Nissan Micra 1.5dCi S&S Lifestyle 90,90500,Manual,2017,Diésel,90,9990,Madrid
-129,178,Nissan Juke DIG-T 84 kW (114 CV) 6M/T N-Connecta,36378,Manual,2021,Gasolina,114,14490,Madrid
-130,179,Nissan Almera 1.5 Visia,211000,Manual,2002,Gasolina,98,1490,Madrid
-131,180,Nissan Juke 1.6 N-Connecta 4x2 112,46287,Manual,2019,Gasolina,113,11790,Madrid
-132,181,Nissan Qashqai 1.5dCi Tekna Sport 4x2 17´´,237874,Manual,2010,Diésel,106,7900,Madrid
-133,182,Nissan Juke 1.5dCi Acenta,208166,Manual,2011,Diésel,110,6990,Madrid
-134,183,Nissan Qashqai 1.6dCi Acenta 4x2 XTronic,162500,Automático,2015,Diésel,131,10890,Madrid
-135,184,Nissan Juke DIG-T 86 kW (117 CV) 6 M/T N-CONNECTA,48741,Manual,2020,Gasolina,117,14490,Madrid
-136,185,Nissan Murano 3.5 V6 Aut.,172000,Automático,2006,Gasolina,234,6750,Madrid
-137,186,Nissan Micra DIG-T N-Connecta 117,46942,Manual,2019,Gasolina,117,11713,Madrid
-138,187,Nissan Juke 1.5dCi Fun 4x2,133498,Manual,2016,Diésel,110,9990,Madrid
-139,188,Nissan Juke 1.5 Turbodiesel Acenta,71940,Manual,2018,Diésel,110,12199,Madrid
-140,190,Nissan Juke 1.5dCi Acenta,59445,Manual,2017,Diésel,110,12499,Madrid
-141,191,Nissan Juke 1.6 Acenta 4x2 112,128000,Manual,2016,Gasolina,113,8499,Madrid
-142,192,Nissan Qashqai 1.3 DIG-T mHEV 12V Acenta 4x2 103kW,19913,Manual,2023,Gasolina,140,21318,Madrid
-143,193,Nissan NV200 1.5 Comfort,300000,Manual,2013,Diésel,90,4499,Madrid
-144,194,Nissan Leaf Tekna 30KWh,106198,Automático,2017,Eléctrico,109,8318,Madrid
-145,195,Nissan Juke 1.0 DIG-T Acenta 4x2 114,41611,Manual,2021,Gasolina,114,14570,Madrid
-146,196,Nissan Qashqai 1.3 N-Connecta,31885,Manual,2021,Gasolina,140,17809,Madrid
-147,197,Nissan Micra 1.5dCi S&S Acenta 90,148101,Manual,2019,Diésel,90,8761,Madrid
-148,198,Nissan Qashqai dCi 85 kW (115 CV) E6D ACENTA,118500,Manual,2021,Diésel,116,12107,Madrid
-149,199,Nissan Micra 1.5dCi S&S Business 90,115000,Manual,2018,Diésel,90,10000,Madrid
-150,200,Nissan Leaf Tekna,115000,Automático,2013,Eléctrico,109,7850,Madrid
-151,201,Nissan Micra 1.2 Tekna Premium,94311,Manual,2011,Gasolina,80,7990,Madrid
-152,202,Nissan Micra IG-T Acenta 92,31361,Manual,2022,Gasolina,92,11190,Madrid
-153,203,Nissan Primera 2.0 SE,312400,Manual,1996,Gasolina,131,1200,Madrid
-154,204,Nissan Micra IG-T Visia 100,115942,Manual,2020,Gasolina,101,8190,Madrid
-155,205,Nissan Leaf Acenta 30KWh,40299,Automático,2017,Eléctrico,109,10350,Madrid
-156,206,Nissan Juke 1.6 N-Connecta 4x2 112,46287,Manual,2019,Gasolina,113,11790,Madrid
-157,207,Nissan Qashqai 1.3 DIG-T Acenta 4x2 103kW,46253,Manual,2019,Gasolina,140,15636,Madrid
-158,208,Nissan Qashqai 1.5dCi N-Connecta 4x2 85kW,145343,Manual,2018,Diésel,116,14285,Madrid
-159,209,Nissan Micra IG-T Acenta 92,31361,Manual,2022,Gasolina,92,11190,Madrid
-160,211,Nissan Murano 2.5dCi Acenta Aut.,266439,Automático,2011,Diésel,190,7200,Madrid
-161,212,Nissan Qashqai 2.0dCi Tekna Premium 4x2 17´´,60280,Manual,2011,Diésel,150,12500,Madrid
-162,213,Nissan Juke 1.0 DIG-T 6 MT Acenta,9230,Manual,2020,Gasolina,117,15999,Madrid
-163,214,Nissan Juke 1.6 Tekna 4x2 XTronic CVT 112,45638,Automático,2018,Gasolina,113,13991,Madrid
-164,215,Nissan Qashqai 1.3 DIG-T Acenta 4x2 103kW,46192,Manual,2019,Gasolina,140,16500,Madrid
-165,216,Nissan Juke 1.6 N-Connecta 4x2 112,46287,Manual,2019,Gasolina,113,11790,Madrid
-166,217,Nissan Leaf 62 kWh e+ N-Connecta,53313,Automático,2020,Eléctrico,218,16990,Madrid
-167,218,Nissan X-Trail 1.6 dCi N-Connecta 4x2 7 pl.,69756,Manual,2018,Diésel,131,18172,Madrid
-168,219,Nissan Juke 1.5dCi S&S Tekna Premium Piel 18´´,152000,Manual,2014,Diésel,110,9450,Madrid
-169,220,Nissan Qashqai dCi 81 kW (110 CV) ACENTA,120000,Manual,2018,Diésel,110,12790,Madrid
-170,221,Nissan Micra IG-T Acenta 92,28887,Manual,2022,Gasolina,92,11190,Madrid
-171,222,Nissan Micra IG-T Acenta 92,28887,Manual,2022,Gasolina,92,11190,Madrid
-172,223,Nissan X-Trail 1.7 dCi Tekna 4x2,50964,Manual,2019,Diésel,150,21490,Madrid
-173,224,Nissan Micra IG-T Acenta 92,32984,Manual,2022,Gasolina,92,11190,Madrid
-174,225,Nissan Micra 1.2 Acenta,79815,Manual,2012,Gasolina,80,6750,Madrid
-175,226,Nissan Pulsar 1.5 dCi Acenta,251299,Manual,2015,Diésel,110,5000,Madrid
-176,227,Nissan Micra IG-T Acenta 92,37394,Manual,2022,Gasolina,92,11190,Madrid
-177,228,Nissan 350Z Roadster Pack,67500,Manual,2007,Gasolina,300,17900,Madrid
-178,229,"Nissan Micra 1.0 N-CONNECTA 120CV 5P S/S # NAVY,CAMARA TRASERA",37269,Manual,2020,Gasolina,120,12800,Madrid
-179,230,Nissan Micra IG-T Acenta 92,37394,Manual,2022,Gasolina,92,11190,Madrid
-180,232,Nissan Micra IG-T Acenta 92,37394,Manual,2022,Gasolina,92,11190,Madrid
-181,233,Nissan Juke 1.5dCi Acenta,197000,Manual,2011,Diésel,110,8000,Madrid
-182,234,Nissan Murano 2.5dCi Tekna Sport Aut.,177000,Automático,2014,Diésel,190,12499,Madrid
-183,235,Nissan Juke DIG-T 84 kW (114 CV) 6M/T Acenta,65922,Manual,2021,Gasolina,114,13360,Madrid
-184,236,Nissan X-Trail 2.0 dCi Tekna 4x4-i XTronic,116000,Automático,2017,Diésel,177,18850,Madrid
-185,237,Nissan Qashqai 2.0 Acenta 4x4,238000,Automático,2008,Gasolina,141,6899,Madrid
-186,238,Nissan Micra IG-T Acenta 92,32472,Manual,2022,Gasolina,92,11190,Madrid
-187,239,Nissan Micra IG-T Acenta 92,32472,Manual,2022,Gasolina,92,11190,Madrid
-188,240,Nissan Micra 1.5dCi S&S Business 90,167592,Manual,2019,Diésel,90,8490,Madrid
-189,241,Nissan Micra IG-T N-Desing Black 92,48710,Manual,2022,Gasolina,92,11385,Madrid
-190,242,Nissan Juke 5P 1.0 DIG-T 84 KW (114 CV) E6D-F 6 M/T ENIGMA,57363,Manual,2022,Gasolina,114,16550,Madrid
-191,243,Nissan 370Z 3.7 NISMO,94000,Manual,2014,Gasolina,344,31900,Madrid
-192,244,Nissan Micra 1.5dCi S&S Acenta 90,130704,Manual,2019,Diésel,90,10590,Madrid
-193,245,Nissan Micra 1.5dCi S&S Acenta 90,130704,Manual,2019,Diésel,90,10590,Madrid
-194,246,Nissan Micra 1.5dCi S&S Acenta 90,130704,Manual,2019,Diésel,90,10590,Madrid
-195,247,Nissan Micra 1.5dCi S&S Acenta 90,130704,Manual,2019,Diésel,90,10590,Madrid
-196,248,Nissan Qashqai 1.3 DIG-T Acenta 4x2 103kW,41271,Manual,2019,Gasolina,140,16575,Madrid
-197,249,Nissan Qashqai 1.7dCI Tekna+ 4x4-I,185111,Manual,2021,Diésel,150,14000,Madrid
-198,250,Nissan Qashqai 1.2 DIG-T Acenta 4x2,158000,Manual,2015,Gasolina,116,10999,Madrid
-199,251,Nissan Juke DIG-T EU6 85 kW (115 CV) 6M/T ACENTA,56999,Manual,2017,Gasolina,116,11490,Madrid
-200,253,Nissan Qashqai 2.0 Acenta 4x4,178000,Manual,2010,Gasolina,141,8498,Madrid
-201,254,Nissan Juke DIG-T 84 kW (114 CV) 6M/T Acenta,50078,Manual,2021,Gasolina,114,14270,Madrid
-202,255,Nissan 350Z 350 Z Premium Pack,93000,Manual,2004,Gasolina,280,45000,Madrid
-203,256,Nissan Qashqai 1.3 DIG-T mHEV 12V Acenta 4x2 103kW,15674,Manual,2023,Gasolina,140,21909,Madrid
-204,257,Nissan NP300 Navara 2.3dCi DCb. Tekna 7AT 190,125000,Manual,2016,Diésel,190,27750,Madrid
-205,258,Nissan Leaf 62 kWh e+ Acenta,5922,Automático,2023,Eléctrico,218,22390,Madrid
-206,259,Nissan Micra 0.9 IG-T ACENTA 90 5P,64322,Manual,2018,Gasolina,90,10300,Madrid
-207,260,Nissan Micra IG-T Acenta 92,31361,Manual,2022,Gasolina,92,11190,Madrid
-208,261,Nissan Qashqai 1.3 DIG-T mHEV 12V Acenta 4x2 103kW,19161,Manual,2023,Gasolina,140,21636,Madrid
-209,262,Nissan Qashqai dCi 85 kW (115 CV) E6D ACENTA,115000,Manual,2018,Diésel,116,14490,Madrid
-210,263,Nissan Note 1.5dCi Acenta,133900,Manual,2015,Diésel,90,7950,Madrid
-211,264,Nissan Qashqai dCi 85 kW (115 CV) E6D ACENTA,190567,Manual,2019,Diésel,116,12775,Madrid
-212,265,Nissan Qashqai DIG-T 103 kW (140 CV) E6D N-STYLE,102600,Manual,2019,Gasolina,140,15900,Madrid
-213,266,Nissan Juke 1.2 DIG-T Tekna 4x2 115,58000,Manual,2018,Gasolina,116,13890,Madrid
-214,267,Nissan Qashqai 1.6dCi Tekna Sport 4x2 18´´,154000,Manual,2013,Diésel,131,10699,Madrid
-215,268,Nissan Qashqai 1.2 Acenta,55803,Manual,2015,Gasolina,116,13099,Madrid
-216,269,Nissan Qashqai 1.2 DIG-T Acenta 4x2,57681,Manual,2016,Gasolina,116,15273,Madrid
-217,270,Nissan Micra 1.2 Acenta,20956,Manual,2016,Gasolina,80,9900,Madrid
-218,271,Nissan Qashqai 1.5dCi Tekna 4x2,98000,Manual,2020,Diésel,110,16500,Madrid
-219,272,Nissan Pulsar 1.5 dCi Acenta,76587,Manual,2016,Diésel,110,11500,Madrid
-220,274,Nissan Qashqai dCi 85 kW 115 CV E6D ACENTA,97011,Manual,2019,Diésel,116,16190,Madrid
-221,275,Nissan Juke 1.0 DIG-T N-Connecta 4x2 114,62351,Manual,2022,Gasolina,114,15200,Madrid
-222,276,Nissan Qashqai 1.3 DIG-T mHEV 12V Acenta 4x2 103kW,15430,Manual,2023,Gasolina,140,21545,Madrid
-223,277,Nissan Micra IG-T Acenta 92,37394,Manual,2022,Gasolina,92,11190,Madrid
-224,278,Nissan Qashqai 1.2 DIG-T N-Connecta 4x2 XTronic,97090,Automático,2017,Gasolina,116,15091,Madrid
-225,279,Nissan Micra 1.2 Visia,66394,Manual,2017,Gasolina,80,8772,Madrid
-226,280,Nissan Leaf Acenta,79720,Automático,2015,Eléctrico,109,7990,Madrid
-227,281,Nissan Qashqai 1.2 DIG-T Acenta 4x2,110940,Manual,2014,Gasolina,116,11999,Madrid
-228,282,Nissan Qashqai 1.2 DIG-T Acenta 4x2,33509,Manual,2017,Gasolina,116,15045,Madrid
-229,283,Nissan Note 1.2 Acenta,78793,Manual,2016,Gasolina,80,9050,Madrid
-230,284,Nissan Micra IG-T 74 kW (100 CV) E6D Acenta,54225,Manual,2019,Gasolina,101,10490,Madrid
-231,285,Nissan Leaf Acenta 30KWh,99000,Automático,2016,Eléctrico,109,8590,Madrid
-232,286,Nissan Qashqai 1.3 DIG-T N-Connecta 4x2 103kW,99166,Manual,2018,Gasolina,140,15650,Madrid
-233,287,Nissan Qashqai 1.3 DIG-T Acenta 4x2 103kW,46253,Manual,2019,Gasolina,140,15636,Madrid
-234,288,Nissan Micra IG-T Acenta 92,28887,Manual,2022,Gasolina,92,11190,Madrid
-235,289,Nissan Micra IG-T Acenta 92,32472,Manual,2022,Gasolina,92,11190,Madrid
-236,290,Nissan Qashqai 1.5dCi N-Connecta 4x2 85kW,36476,Manual,2019,Diésel,116,18172,Madrid
-237,291,Nissan Qashqai 1.6 NConnecta,95189,Manual,2017,Gasolina,163,14199,Madrid
-238,292,Nissan Juke 1.5dCi Acenta,78000,Manual,2019,Diésel,110,13990,Madrid
-239,293,Nissan Qashqai 1.5dCi Acenta 4x2,81702,Manual,2015,Diésel,110,12990,Madrid
-240,295,Nissan GT-R 3.8 V6 570 Aut. T-Spec,160,Automático,2024,Gasolina,570,145000,Madrid
-241,296,Nissan Juke 1.2 Acenta,32543,Manual,2018,Gasolina,116,13299,Madrid
-242,297,Nissan Juke 1.2 DIG-T Acenta 4x2 115,73926,Manual,2015,Gasolina,116,11500,Madrid
-243,298,Nissan Micra IG-T S&S Acenta 90,94179,Manual,2018,Gasolina,90,9990,Madrid
-244,299,Nissan Leaf 40 kWh Acenta,8502,Automático,2019,Eléctrico,218,13890,Madrid
-245,300,Nissan X-Trail 1.6 dCi 360 4x2 XTronic,207755,Automático,2015,Diésel,131,13490,Madrid
-246,301,Nissan Leaf 5p 109 CV Visia,35535,Automático,2014,Eléctrico,109,8880,Madrid
-247,302,Nissan Qashqai 1.3 DIG-T mHEV 12V N-Connecta 4x2 103kW,25403,Manual,2023,Gasolina,140,21590,Madrid
-248,303,Nissan Juke 1.0 DIG-T N-Connecta 4x2 114,16659,Manual,2023,Gasolina,114,19500,Madrid
-249,304,Nissan Micra IG-T Acenta 92,26131,Manual,2023,Gasolina,92,11790,Madrid
-250,305,Nissan Micra IG-T Acenta 92,26131,Manual,2023,Gasolina,92,11790,Madrid
-251,306,Nissan Leaf 40 kWh Acenta,8502,Automático,2019,Eléctrico,218,13890,Madrid
-252,307,Nissan Qashqai 1.6dCi N-Tec 4x2 XTronic,169201,Automático,2014,Diésel,131,12300,Madrid
-253,308,Nissan Qashqai 1.6dCi Tekna Premium 4x2 XTronic,132428,Automático,2014,Diésel,131,13990,Madrid
-254,309,Nissan Qashqai 1.2 DIG-T Acenta 4x2,108779,Manual,2015,Gasolina,116,13950,Madrid
-255,310,Nissan Pulsar 1.2 DIG-T N-Connecta XTronic,128000,Automático,2016,Gasolina,116,9490,Madrid
-256,311,Nissan Juke 1.2 DIG-T Acenta 4x2 115,127265,Manual,2016,Gasolina,116,10490,Madrid
-257,312,Nissan Qashqai 1.3 DIG-T mHEV 12V Acenta 4x2 103kW,23054,Manual,2023,Gasolina,140,21272,Madrid
-258,313,Nissan GT-R Black Edition Aut.,95650,Automático,2011,Gasolina,530,97500,Madrid
-259,314,Nissan Micra N-Connecta,71850,Manual,2018,Diésel,90,10400,Madrid
-260,316,Nissan Juke 1.6 N-Connecta 4x2 112,92523,Manual,2019,Gasolina,113,12380,Madrid
-261,317,Nissan Juke 1.0 DIG-T N-Connecta 4x2 114,36279,Manual,2021,Gasolina,114,15618,Madrid
-262,318,Nissan Juke 1.5dCi N-Connecta 4x2,115000,Manual,2018,Diésel,110,11490,Madrid
-263,319,Nissan Qashqai 2.0dCi Acenta 4x2,223000,Manual,2007,Diésel,150,6500,Madrid
-264,320,Nissan Micra IG-T Acenta 100,22362,Manual,2020,Gasolina,101,13100,Madrid
-265,321,Nissan Micra IG-T Acenta 92,32984,Manual,2022,Gasolina,92,11190,Madrid
-266,322,Nissan Qashqai 1.5 dCi TEKNA PIEL,159000,Manual,2017,Diésel,110,13900,Madrid
-267,323,Nissan Juke 1.2 DIG-T Acenta 4x2 115,127265,Manual,2016,Gasolina,116,10490,Madrid
-268,324,Nissan Qashqai 1.5dCi Acenta 4x2 85kW,114401,Manual,2019,Diésel,116,14666,Madrid
-269,325,"Nissan Qashqai 2.0 141cv TEKNA SPORT # CAMARA TRASERA, GPS",145100,Manual,2011,Gasolina,141,10350,Madrid
-270,326,Nissan Qashqai 1.3 DIG-T mHEV 12V Acenta 4x2 103kW,9632,Manual,2023,Gasolina,140,22273,Madrid
-271,327,Nissan Micra IG-T Acenta 92,26131,Manual,2023,Gasolina,92,11790,Madrid
-272,328,Nissan Juke 1.2 DIG-T Acenta 4x2 115,146629,Manual,2015,Gasolina,116,8490,Madrid
-273,329,Nissan Juke 1.6 DIG-T Tekna Premium 4x2 190,167000,Automático,2016,Gasolina,190,10990,Madrid
-274,330,Nissan Micra IG-T Acenta Sprint 92,40136,Manual,2022,Gasolina,92,12490,Madrid
-275,331,Nissan Juke 1.6 Tekna 4x2 112,78620,Manual,2019,Gasolina,113,13773,Madrid
-276,332,Nissan Qashqai 1.2 DIG-T N-Connecta 4x2,132000,Manual,2016,Gasolina,116,12499,Madrid
-277,333,Nissan Micra IG-T Acenta Sprint 92,42710,Manual,2023,Gasolina,92,12990,Madrid
-278,334,Nissan X-Trail 1.6 dCi N-Connecta 4x2,81112,Manual,2018,Diésel,131,17499,Madrid
-279,335,Nissan Juke 1.6 Hybrid N-Connecta Auto,35335,Automático,2023,Electro/Gasolina,143,20772,Madrid
-280,337,Nissan Qashqai 2.0dCi Acenta 4x4,88000,Manual,2009,Diésel,150,10799,Madrid
-281,338,Nissan Micra 5p IG-T TEKNA,39091,Manual,2017,Gasolina,90,9990,Madrid
-282,339,Nissan X-Trail 2.0 dCi N-Connecta 4x2 XTronic,93543,Automático,2018,Diésel,177,19363,Madrid
-283,340,Nissan X-Trail 1.6 dCi Tekna 4x2 XTronic,96433,Automático,2018,Diésel,131,19081,Madrid
-284,341,Nissan Qashqai 1.3 DIG-T Acenta 4x2 103kW,56385,Manual,2019,Gasolina,140,17200,Madrid
-285,342,Nissan Micra IG-T S&S Acenta 90,77000,Manual,2021,Gasolina,90,12495,Madrid
-286,343,Nissan Micra IG-T 68 kW (92 CV) E6D-F Acenta,11512,Manual,2022,Gasolina,92,11790,Madrid
-287,344,Nissan Tiida 1.5dCi Tekna,153813,Manual,2009,Diésel,106,5840,Madrid
-288,345,Nissan Leaf 40 kWh Acenta Access,13124,Automático,2020,Eléctrico,150,14490,Madrid
-289,346,Nissan Juke 1.6 DIG-T Tekna Premium CVT4x4,97842,Automático,2012,Gasolina,190,10990,Madrid
-290,347,Nissan Note 1.5dCi Tekna Premium,184000,Manual,2013,Diésel,90,7500,Madrid
-291,348,Nissan Qashqai QASHQAI+2 2.0 DCI TEKNA SPORT 4X2 150 5P 7 PL,132236,Manual,2009,Diésel,150,9800,Madrid
-292,349,Nissan Juke 1.0 DIG-T N-Connecta 4x2 114,11707,Manual,2023,Gasolina,114,19772,Madrid
-293,350,Nissan Juke DIGT 86 kW 117 CV 6 MT ACENTA,74410,Manual,2020,Gasolina,117,16299,Madrid
-294,351,Nissan Qashqai 1.6dCi Tekna 4x2 XTronic 19´´,162000,Automático,2014,Diésel,131,11999,Madrid
-295,352,Nissan Qashqai 1.3 DIG-T MHEV 116KW ACENTA CVT 2WD,5322,Automático,2024,Gasolina,158,27000,Madrid
-296,353,Nissan Qashqai 1.5dCi Acenta 4x2,136837,Manual,2008,Diésel,106,7990,Madrid
-297,354,Nissan X-Trail 1.6 dCi Tekna 4x2,119213,Manual,2018,Diésel,131,17454,Madrid
-298,355,Nissan Qashqai Q+2 1.6dCi S&S Tekna Premium 4x2 18´´,153848,Manual,2013,Diésel,131,12450,Madrid
-299,356,Nissan X-Trail 1.6 dCi N-Connecta 4x2,127683,Manual,2018,Diésel,131,18000,Madrid
-300,358,Nissan Qashqai 1.5dCi Acenta 4x2 85kW,58416,Manual,2019,Diésel,116,17999,Madrid
-301,359,Nissan Qashqai 1.3 DIG-T Acenta 4x2 103kW,35565,Manual,2020,Gasolina,140,17690,Madrid
-302,360,Nissan Qashqai 1.3 DIG-T mHEV 12V Acenta 4x2 103kW,23538,Manual,2023,Gasolina,140,21718,Madrid
-303,361,Nissan Qashqai 1.5dCi Acenta 4x2,115000,Manual,2017,Diésel,110,14990,Madrid
-304,362,Nissan Qashqai 1.2 DIG-T Acenta 4x2,77483,Manual,2016,Gasolina,116,14943,Madrid
-305,363,Nissan Qashqai 1.5dCi N-Connecta 4x2,94452,Manual,2018,Diésel,110,16536,Madrid
-306,364,Nissan Qashqai 1.3 DIG-T mHEV 12V Acenta 4x2 103kW,11000,Manual,2023,Gasolina,140,22990,Madrid
-307,365,Nissan Qashqai DIG-T 103kW (140CV) mHEV 4x2 Acenta,71200,Manual,2021,Electro/Gasolina,140,17790,Madrid
-308,366,Nissan Qashqai 1.3 DIG-T mHEV 12V Acenta 4x2 103kW,17921,Manual,2023,Gasolina,140,21500,Madrid
-309,367,Nissan Pulsar 1.2 DIG-T N-Connecta XTronic,84512,Automático,2018,Gasolina,116,11490,Madrid
-310,368,Nissan Leaf 40 kWh N-Connecta,66367,Automático,2018,Eléctrico,218,15190,Madrid
-311,369,Nissan Leaf 40 kWh N-Connecta,66367,Automático,2018,Eléctrico,218,15190,Madrid
-312,370,Nissan Qashqai 1.5dCi Tekna Premium 4x2,276000,Manual,2015,Diésel,110,9999,Madrid
-313,371,Nissan Leaf Visia+,78000,Automático,2014,Eléctrico,109,7999,Madrid
-314,372,Nissan X-Trail 5P dCi 110 kW (150 CV) E6D CVT N-TEC,110748,Automático,2020,Diésel,150,16490,Madrid
-315,373,Nissan Micra IG-T Acenta Sprint 92,20590,Manual,2023,Gasolina,92,13990,Madrid
-316,374,Nissan Qashqai 1.6 DIG-T N-Connecta 4x2,61644,Manual,2017,Gasolina,163,15990,Madrid
-317,375,Nissan Leaf 40 kWh Acenta Access,43280,Automático,2018,Eléctrico,150,12990,Madrid
-318,376,Nissan Leaf 40 kWh Acenta Access,43280,Automático,2018,Eléctrico,150,12990,Madrid
-319,377,Nissan Juke 1.6 DIG-T Tekna Premium,180000,Manual,2011,Gasolina,190,8500,Madrid
-320,379,Nissan Micra 1.5dCi S&S N-Connecta 90,54483,Manual,2017,Diésel,90,11490,Madrid
-321,380,Nissan Micra 0.9 Turbo Lifestyle,104596,Manual,2018,Gasolina,90,10099,Madrid
-322,381,Nissan Qashqai 1.3 DIG-T mHEV 12V N-Connecta 4x2 103kW,31285,Manual,2023,Gasolina,140,21290,Madrid
-323,382,Nissan Qashqai 1.5dCi N-Connecta 4x2 85kW,103796,Manual,2019,Diésel,116,16190,Madrid
-324,383,Nissan Leaf 40 kWh Acenta,54990,Automático,2020,Eléctrico,150,12390,Madrid
-325,384,Nissan Qashqai Q+2 2.0dCi Acenta 4x2,150000,Manual,2010,Diésel,150,10195,Madrid
-326,385,Nissan Qashqai 1.3 DIG-T Acenta 4x2 103kW,80021,Manual,2020,Gasolina,140,17100,Madrid
-327,386,Nissan X-Trail 1.6 dCi N-Connecta 4x2 XTronic 7 pl.,157459,Automático,2017,Diésel,131,15272,Madrid
-328,387,Nissan Tiida 1.5dCi Acenta,210000,Manual,2008,Diésel,106,3300,Madrid
-329,388,Nissan Qashqai 1.3 DIG-T mHEV 12V Acenta 4x2 103kW,10678,Manual,2023,Gasolina,140,21990,Madrid
-330,389,Nissan Qashqai 1.3 DIG-T mHEV 12V Acenta 4x2 103kW,18601,Manual,2023,Gasolina,140,21809,Madrid
-331,390,Nissan X-Trail 1.5 e-Power N-Connecta e-4orce 4x4 7pl. 158kW,10,Automático,2023,Gasolina,215,35990,Madrid
-332,391,Nissan X-Trail 1.7 dCi N-Connecta 4x2,58554,Manual,2020,Diésel,150,21263,Madrid
-333,392,Nissan Qashqai 1.6dCi Acenta 4x2,209999,Manual,2020,Diésel,131,12800,Madrid
-334,393,Nissan Micra IG-T Acenta 92,51054,Manual,2020,Gasolina,92,12990,Madrid
-335,394,Nissan Qashqai 1.3 DIG-T mHEV 12V Acenta 4x2 103kW,20411,Manual,2023,Gasolina,140,21772,Madrid
-336,395,Nissan Leaf 40 kWh Acenta,8502,Automático,2019,Eléctrico,218,13890,Madrid
-337,396,Nissan Juke 1.0 DIG-T N-Connecta 4x2 114,21619,Manual,2023,Gasolina,114,19354,Madrid
-338,397,Nissan Leaf 40 kWh Acenta,18814,Automático,2019,Eléctrico,218,13890,Madrid
-339,398,Nissan Qashqai Q+2 1.5dCi Acenta 4x2,148439,Manual,2012,Diésel,110,11500,Madrid
-340,400,Nissan 370Z 3p 3.7G 328 CV (241 kW) GT,73982,Manual,2016,Gasolina,328,26490,Madrid
-341,401,Nissan Leaf 62 kWh e+ N-Connecta,35000,Automático,2021,Eléctrico,218,17999,Madrid
-342,402,Nissan Juke 1.6i Acenta CVT,97146,Automático,2012,Gasolina,117,11200,Madrid
-343,403,Nissan Leaf 40 kWh Acenta Access,43280,Automático,2018,Eléctrico,150,12990,Madrid
-344,404,Nissan Qashqai 1.3 DIG-T N-Connecta 4x2 103kW,38361,Manual,2020,Gasolina,140,18094,Madrid
-345,405,Nissan Juke 1.0 DIG-T N-Connecta 4x2 114,21281,Manual,2023,Gasolina,114,19363,Madrid
-346,407,Nissan Qashqai 1.2 Acenta,88217,Manual,2018,Gasolina,116,14999,Madrid
-347,408,Nissan Juke DIG-T 84 kW (114 CV) 6M/T N-Connecta,20963,Manual,2021,Gasolina,114,15450,Madrid
-348,409,Nissan Qashqai 1.3 DIG-T mHEV 12V N-Connecta 4x2 Aut. 116kW,8028,Automático,2024,Gasolina,158,25890,Madrid
-349,410,Nissan Qashqai 1.3 DIG-T mHEV 12V N-Connecta 4x2 Aut. 116kW,8028,Automático,2024,Gasolina,158,25890,Madrid
-350,412,Nissan Leaf 40 kWh Acenta Access,43280,Automático,2018,Eléctrico,150,12990,Madrid
-351,413,Nissan Leaf 40 kWh Acenta,34000,Automático,2020,Eléctrico,150,13999,Madrid
-352,414,Nissan Qashqai 1.3 DIG-T N-Connecta 4x2 DCT 117kW,22249,Automático,2020,Gasolina,159,21445,Madrid
-353,415,Nissan Micra IG-T Acenta 92,32984,Manual,2022,Gasolina,92,11190,Madrid
-354,416,Nissan Juke DIG-T 86 kW (117 CV) 6 M/T ACENTA,37513,Manual,2020,Gasolina,117,16500,Madrid
-355,417,Nissan Pulsar 1.5 dCi Acenta,97097,Manual,2017,Diésel,110,12850,Madrid
-356,418,Nissan Qashqai 1.6 DIG-T Tekna 4x2,78000,Manual,2016,Gasolina,163,15190,Madrid
-357,419,Nissan Juke 1.5dCi Acenta 4x2,170347,Manual,2015,Diésel,110,9200,Madrid
+,id_segunda_mano,version,kilometraje,precio,id_provincia,id_potencia,id_motor,id_cambio,id_anio
+0,1,Nissan Qashqai 1.2 DIG-T Acenta 4x2,121649,11480,1,18,3,1,5
+1,2,Nissan Juke 1.5dCi Visia,260000,6500,1,15,6,1,2
+2,3,Nissan Qashqai DIG-T 103kW (140CV) mHEV 4x2 Acenta,11290,22000,1,1,7,1,13
+3,4,Nissan Juke 1.6 N-Connecta 4x2 112,46287,11790,1,19,3,1,9
+4,5,Nissan Qashqai 1.6dCi Visia 4x2,178000,13900,1,20,6,1,8
+5,6,Nissan Qashqai DIG-T 103kW (140CV) mHEV 4x2 Acenta,77613,17270,1,1,7,1,11
+6,7,Nissan X-Trail 1.6 dCi Acenta 4x2,269000,9500,1,20,6,1,6
+7,8,Nissan Juke 1.6i Tekna Sport CVT,77811,9999,1,21,3,2,3
+8,9,Nissan Juke DIG-T 84 kW (114 CV) 6M/T N-Connecta,74140,14180,1,4,3,1,11
+9,10,Nissan Qashqai 1.5dCi N-Connecta 4x2 85kW,81844,15809,1,18,6,1,9
+10,11,Nissan Qashqai 1.5dCi Tekna Premium 4x2 17´´,140000,7800,1,15,6,1,3
+11,12,Nissan Qashqai 1.3 DIG-T Acenta 4x2 103kW,42854,17495,1,1,3,1,10
+12,13,Nissan Qashqai Q+2 1.6dCi S&S Tekna Sport 4x2 18´´,95830,11450,1,20,6,1,2
+13,14,Nissan Pulsar 1.2 DIG-T Visia,93103,10300,1,18,3,1,6
+14,15,Nissan X-Trail Acenta,169383,13500,1,20,6,1,5
+15,16,Nissan Micra IG-T Acenta 92,31361,11190,1,22,3,1,12
+16,17,Nissan X-Trail 1.6 DIG-T N-Connecta 4x2 7 pl.,69742,21090,1,6,3,2,10
+17,18,Nissan Leaf 40 kWh Acenta,8502,13890,1,12,4,2,9
+18,19,Nissan Micra IG-T Acenta 92,28887,11190,1,22,3,1,12
+19,20,Nissan Pulsar 1.2 DIG-T Visia,93103,10300,1,18,3,1,6
+20,22,Nissan X-Trail 1.7 dCi N-Connecta 4x2 CVT,60101,21364,1,10,6,2,10
+21,23,Nissan Micra IG-T Acenta 92,26131,11790,1,22,3,1,13
+22,24,Nissan Qashqai DIG-T 103kW (140CV) mHEV 4x2 Acenta,20871,21810,1,1,7,1,13
+23,25,Nissan Qashqai 1.3 DIG-T Acenta 4x2 103kW,35565,17690,1,1,3,1,10
+24,26,Nissan Qashqai DIG-T 103kW (140CV) mHEV 4x2 Acenta,94919,16630,1,1,7,1,11
+25,27,Nissan Pulsar 1.2 DIG-T Visia,93103,10300,1,18,3,1,6
+26,28,Nissan Micra IG-T N-Connecta 100,83112,11600,1,23,3,1,10
+27,29,Nissan Micra IG-T Acenta 92,32472,11190,1,22,3,1,12
+28,30,Nissan Micra IG-T N-Connecta 100,63473,11600,1,23,3,1,9
+29,31,Nissan Qashqai 1.5 Acenta,97373,15299,1,15,6,1,8
+30,32,Nissan Qashqai dCi 150CV (110kW) 4WD ACENTA,178577,17500,1,10,6,1,9
+31,33,Nissan Juke 5P 1.6 HYBRID 105 KW (143 CV) E6D-F AUTO N-DESIGN,2737,24250,1,24,4,2,14
+32,34,Nissan Qashqai 1.3 DIG-T N-Style 4x2 103kW,64634,18190,1,1,3,2,11
+33,35,Nissan Qashqai 1.6dCi 360 4x2 XTronic,175000,12900,1,20,6,2,4
+34,36,Nissan Micra IG-T Acenta 92,32984,11190,1,22,3,1,12
+35,37,Nissan Micra IG-T N-Connecta 100,39885,12600,1,23,3,1,10
+36,38,Nissan Qashqai 1.3 DIG-T mHEV 12V N-Connecta 4x2 103kW,34763,23545,1,1,3,1,13
+37,39,Nissan Qashqai 1.3 DIG-T mHEV 12V N-Connecta 4x2 103kW,34763,23545,1,1,3,1,13
+38,40,Nissan Qashqai 1.3 DIG-T mHEV 12V N-Connecta 4x2 103kW,37544,23545,1,1,3,1,13
+39,41,Nissan Qashqai 1.3 DIG-T mHEV 12V N-Connecta 4x2 Aut. 116kW,8028,25890,1,2,3,2,14
+40,43,Nissan Micra IG-T Acenta Sprint 92,56343,12900,1,22,3,1,13
+41,44,Nissan Qashqai 1.3 DIG-T Acenta 4x2 103kW,50258,18182,1,1,3,1,11
+42,45,Nissan Juke G E6D-Temp 83 kW (112 CV) 5M/T ACENTA,70732,12500,1,19,3,1,9
+43,46,Nissan Juke G E6D-Temp 83 kW (112 CV) 5M/T ACENTA,112361,13990,1,19,3,1,8
+44,47,Nissan Qashqai 1.3 DIG-T mHEV 12V N-GO 4x2 103kW,60000,18000,1,1,3,1,11
+45,48,Nissan Qashqai dCi 150CV (110kW) 4WD ACENTA,148651,18200,1,10,6,1,9
+46,49,Nissan Qashqai dCi 150CV (110kW) 4WD ACENTA,159231,17900,1,10,6,1,9
+47,50,Nissan Micra IG-T Acenta Sprint 92,63756,12600,1,22,3,1,12
+48,51,Nissan X-Trail 1.6 dCi Tekna 4x2 XTronic,82244,23000,1,20,6,2,8
+49,52,Nissan Micra Acenta IG-T 92cv. *IVA deducible* *31.000 km* *202,30000,12990,1,22,3,1,12
+50,53,Nissan Qashqai 1.3 DIG-T mHEV 12V N-Connecta 4x2 Aut. 116kW,4370,26390,1,2,3,2,14
+51,54,Nissan Qashqai DIG-T 116kW (158CV) mHEV 4x2 Tekna,42168,20990,1,2,7,1,12
+52,55,Nissan Micra IG-T 68 kW (92 CV) E6D-F Acenta,50268,14500,1,22,3,1,12
+53,56,Nissan Micra 1.0 G Acenta 73,112000,11400,1,25,3,1,7
+54,57,Nissan Qashqai 1.3 DIG-T MHEV 103KW N-CONNECTA 5P 2WD,9190,26250,1,1,3,1,13
+55,58,Nissan Qashqai DIG-T 103kW (140CV) mHEV 4x2 Acenta,15000,23630,1,1,7,1,13
+56,59,Nissan Micra IG-T N-Desing Chrome 92,25354,12900,1,22,3,1,11
+57,60,Nissan Qashqai DIG-T 103kW N-Connecta,32898,25900,1,1,7,1,13
+58,61,Nissan Juke DIG-T 84 kW (114 CV) 6M/T Acenta,68923,18900,1,4,3,1,12
+59,62,Nissan Juke DIG-T 84 kW (114 CV) DCT 7 Vel. Enigma,66054,20990,1,4,3,2,12
+60,85,Nissan Qashqai DIG-T 103kW (140CV) mHEV 4x2 Acenta,23598,21810,1,1,7,1,13
+61,86,Nissan Qashqai DIG-T 103kW (140CV) mHEV 4x2 N-Connecta,53379,20090,1,1,7,1,11
+62,87,Nissan Qashqai DIG-T 103kW (140CV) mHEV 4x2 Acenta,13219,21810,1,1,7,1,13
+63,88,Nissan Qashqai DIG-T 103kW (140CV) mHEV 4x2 Acenta,10846,22090,1,1,7,1,13
+64,89,Nissan Juke 1.0 DIG-T N-Connecta 4x2 117,103571,13790,1,21,3,1,10
+65,90,Nissan Qashqai dCi 85 kW (115 CV) E6D N-CONNECTA,59224,16810,1,18,6,1,10
+66,91,Nissan Juke 1.0 DIG-T Enigma 4x2 DCT 7 114,31663,19650,1,4,3,2,11
+67,92,Nissan Qashqai 1.6 dCi XTRONIC TEKNA ALCANTARA,115372,16813,1,20,6,2,7
+68,93,Nissan Qashqai DIG-T 103kW (140CV) mHEV 4x2 Acenta,15000,23630,1,1,7,1,13
+69,94,Nissan Qashqai DIG-T 116kW (158CV) mHEV Xtronic Acenta,10,26000,1,2,7,2,13
+70,95,Nissan Qashqai DIG-T 103kW (140CV) mHEV 4x2 Acenta,15118,23630,1,1,7,1,13
+71,96,Nissan Micra IG-T Acenta Sprint 92,15870,13990,1,22,3,1,13
+72,97,Nissan Qashqai 1.3 DIG-T mHEV 12V N-Connecta 4x2 103kW,12579,25495,1,1,7,1,13
+73,98,Nissan Qashqai DIG-T 116kW Xtronic N-Connecta,33524,21810,1,2,7,2,11
+74,99,Nissan Juke DIG-T 84 kW (114 CV) 6M/T N-Connecta,37085,15810,1,4,3,1,11
+75,100,Nissan Qashqai DIG-T 103kW (140CV) mHEV 4x2 Acenta,16574,23630,1,1,7,1,13
+76,101,Nissan Qashqai 1.5dCi N-Connecta 4x2,80886,17250,1,15,6,1,8
+77,102,Nissan Qashqai DIG-T 103kW (140CV) mHEV 4x2 Acenta,15000,23630,1,1,7,1,13
+78,103,Nissan Qashqai DIG-T 116kW (158CV) mHEV Xtronic Acenta,40817,21810,1,2,7,2,11
+79,104,Nissan Qashqai 1.3 DIG-T mHEV 12V Acenta 4x2 Aut. 116kW,8934,27990,1,2,3,2,13
+80,106,Nissan Qashqai N-Style DIG-T 140CV E6D,79900,18990,1,1,3,1,11
+81,107,Nissan Qashqai DIG-T 103kW (140CV) mHEV 4x2 Acenta,15000,23630,1,1,7,1,13
+82,108,Nissan Qashqai DIG-T 103kW (140CV) mHEV 4x2 Acenta,13291,23630,1,1,7,1,13
+83,109,Nissan Qashqai DIG-T 103kW (140CV) mHEV 4x2 Acenta,15000,23630,1,1,7,1,13
+84,110,Nissan Qashqai DIG-T 103kW (140CV) mHEV 4x2 Acenta,15000,23630,1,1,7,1,13
+85,111,Nissan Qashqai DIG-T 103kW (140CV) mHEV 4x2 Acenta,15000,23630,1,1,7,1,13
+86,112,Nissan Qashqai DIG-T 103kW (140CV) mHEV 4x2 Acenta,15000,23630,1,1,7,1,13
+87,113,Nissan Micra IG-T Acenta Sprint 92,27029,14943,1,22,3,1,12
+88,114,Nissan Qashqai DIG-T 103kW (140CV) mHEV 4x2 Acenta,15000,23630,1,1,7,1,13
+89,115,Nissan Qashqai 1.3 DIG-T mHEV 12V N-GO 4x2 103kW,82044,21995,1,1,7,1,12
+90,116,Nissan Qashqai DIG-T 103kW (140CV) mHEV 4x2 Acenta,15000,23630,1,1,7,1,13
+91,117,Nissan Micra IG-T Acenta Sprint 92,26125,14943,1,22,3,1,13
+92,118,Nissan Micra IG-T Acenta Sprint 92,33996,14943,1,22,3,1,13
+93,119,Nissan Micra IG-T Acenta Sprint 92,69000,13695,1,22,3,1,12
+94,120,Nissan Qashqai DIG-T 103 kW (140 CV) E6D N-CONNECTA,34000,20490,1,1,3,1,10
+95,121,Nissan X-Trail 7P DIG-T 120 kW (160 CV) E6D DCT N-CONN.,58716,22540,1,6,3,2,11
+96,122,Nissan Qashqai 1.5 EREV E-POWER N-CONNECTA AUTO 190 5P,25802,27830,1,3,7,2,13
+97,123,Nissan Qashqai E-POWER 140 KW (190 CV) AUTOM. 4X2 TEKNA,6386,35250,1,3,3,2,13
+98,124,Nissan Leaf FLEX Acenta,150000,8500,1,26,4,2,4
+99,125,Nissan Qashqai 1.3 DIG-T mHEV 12V Tekna + 4x2 Aut. 116kW,21100,32950,1,2,3,2,13
+100,148,Nissan Qashqai 1.5 Turbodiesel Acenta,91644,12799,1,15,6,1,5
+101,149,Nissan Juke 1.5dCi N-Connecta 4x2,74000,11990,1,15,6,1,9
+102,150,Nissan Qashqai 2.0 Acenta 4x2,213000,6500,1,27,3,1,16
+103,151,Nissan Juke dCi E6C 81 kW (110 CV) 6M/T N-CONNECTA,97200,11990,1,15,6,1,8
+104,152,Nissan Qashqai+2 Q+2 2.0dCi Tekna Sport 4x2 18´´,137000,8000,1,10,6,1,17
+105,153,Nissan Leaf 40 kWh N-Connecta,32036,12490,1,10,4,2,9
+106,154,Nissan X-Trail 1.7 dCi Acenta 4x4-i 7 pl.,189950,13150,1,10,6,1,9
+107,155,Nissan Patrol Pick-Up Corto,160000,4100,1,28,6,1,18
+108,156,Nissan Leaf 40 kWh Acenta,69000,12990,1,10,4,2,9
+109,157,Nissan Micra 1.2 Acenta,123000,6450,1,29,3,1,6
+110,158,Nissan Qashqai 1.3 DIG-T Acenta 4x2 103kW,46253,15636,1,1,3,1,9
+111,159,Nissan Micra IG-T Acenta 100,19878,12380,1,23,3,1,12
+112,160,Nissan Juke 1.6i Visia,72051,11713,1,21,3,1,9
+113,161,Nissan Leaf Visia 30KWh,55260,6900,1,26,4,2,8
+114,162,Nissan Qashqai 1.5dCi Acenta 4x2,136837,7990,1,30,6,1,16
+115,163,Nissan Juke 1.2 DIG-T N-TEC 4X2 Ext1 Rojo,123500,9290,1,18,3,1,4
+116,164,Nissan Qashqai Q+2 1.5dCi Acenta 4x2,230000,7500,1,15,6,1,2
+117,165,Nissan Juke Juke+1.6i+Acenta+Acenta,209000,6500,1,21,3,1,19
+118,166,Nissan Juke 1.5dCi Acenta 4x2,54699,12450,1,15,6,1,6
+119,167,Nissan Qashqai 1.6dCi S&S Acenta 4x2,193000,8999,1,20,6,1,2
+120,169,Nissan Qashqai Q+2 1.6 Acenta 4x2,222000,5900,1,4,3,1,19
+121,170,Nissan Leaf 40 kWh Acenta Access,5825,14990,1,10,4,2,10
+122,171,Nissan Micra IG-T Acenta Sprint 92,42710,12990,1,22,3,1,13
+123,172,Nissan Qashqai 2.0dCi Tekna Sport 4x2 18´´,360000,4000,1,10,6,1,19
+124,173,Nissan Micra IG-T Acenta 92,60448,11272,1,22,3,1,11
+125,174,Nissan Qashqai 1.5dCi Acenta 4x2,160000,7800,1,30,6,1,17
+126,175,Nissan Leaf 40kWh Tekna Bitono,52780,10490,1,31,4,2,8
+127,176,Nissan Juke 1.0 DIG-T N-Connecta 4x2 114,28329,15999,1,4,3,1,12
+128,177,Nissan Micra 1.5dCi S&S Lifestyle 90,90500,9990,1,32,6,1,7
+129,178,Nissan Juke DIG-T 84 kW (114 CV) 6M/T N-Connecta,36378,14490,1,4,3,1,11
+130,179,Nissan Almera 1.5 Visia,211000,1490,1,33,3,1,20
+131,180,Nissan Juke 1.6 N-Connecta 4x2 112,46287,11790,1,19,3,1,9
+132,181,Nissan Qashqai 1.5dCi Tekna Sport 4x2 17´´,237874,7900,1,30,6,1,19
+133,182,Nissan Juke 1.5dCi Acenta,208166,6990,1,15,6,1,1
+134,183,Nissan Qashqai 1.6dCi Acenta 4x2 XTronic,162500,10890,1,20,6,2,5
+135,184,Nissan Juke DIG-T 86 kW (117 CV) 6 M/T N-CONNECTA,48741,14490,1,21,3,1,10
+136,185,Nissan Murano 3.5 V6 Aut.,172000,6750,1,34,3,2,21
+137,186,Nissan Micra DIG-T N-Connecta 117,46942,11713,1,21,3,1,9
+138,187,Nissan Juke 1.5dCi Fun 4x2,133498,9990,1,15,6,1,6
+139,188,Nissan Juke 1.5 Turbodiesel Acenta,71940,12199,1,15,6,1,8
+140,190,Nissan Juke 1.5dCi Acenta,59445,12499,1,15,6,1,7
+141,191,Nissan Juke 1.6 Acenta 4x2 112,128000,8499,1,19,3,1,6
+142,192,Nissan Qashqai 1.3 DIG-T mHEV 12V Acenta 4x2 103kW,19913,21318,1,1,3,1,13
+143,193,Nissan NV200 1.5 Comfort,300000,4499,1,32,6,1,3
+144,194,Nissan Leaf Tekna 30KWh,106198,8318,1,26,4,2,7
+145,195,Nissan Juke 1.0 DIG-T Acenta 4x2 114,41611,14570,1,4,3,1,11
+146,196,Nissan Qashqai 1.3 N-Connecta,31885,17809,1,1,3,1,11
+147,197,Nissan Micra 1.5dCi S&S Acenta 90,148101,8761,1,32,6,1,9
+148,198,Nissan Qashqai dCi 85 kW (115 CV) E6D ACENTA,118500,12107,1,18,6,1,11
+149,199,Nissan Micra 1.5dCi S&S Business 90,115000,10000,1,32,6,1,8
+150,200,Nissan Leaf Tekna,115000,7850,1,26,4,2,3
+151,201,Nissan Micra 1.2 Tekna Premium,94311,7990,1,29,3,1,1
+152,202,Nissan Micra IG-T Acenta 92,31361,11190,1,22,3,1,12
+153,203,Nissan Primera 2.0 SE,312400,1200,1,20,3,1,22
+154,204,Nissan Micra IG-T Visia 100,115942,8190,1,23,3,1,10
+155,205,Nissan Leaf Acenta 30KWh,40299,10350,1,26,4,2,7
+156,206,Nissan Juke 1.6 N-Connecta 4x2 112,46287,11790,1,19,3,1,9
+157,207,Nissan Qashqai 1.3 DIG-T Acenta 4x2 103kW,46253,15636,1,1,3,1,9
+158,208,Nissan Qashqai 1.5dCi N-Connecta 4x2 85kW,145343,14285,1,18,6,1,8
+159,209,Nissan Micra IG-T Acenta 92,31361,11190,1,22,3,1,12
+160,211,Nissan Murano 2.5dCi Acenta Aut.,266439,7200,1,3,6,2,1
+161,212,Nissan Qashqai 2.0dCi Tekna Premium 4x2 17´´,60280,12500,1,10,6,1,1
+162,213,Nissan Juke 1.0 DIG-T 6 MT Acenta,9230,15999,1,21,3,1,10
+163,214,Nissan Juke 1.6 Tekna 4x2 XTronic CVT 112,45638,13991,1,19,3,2,8
+164,215,Nissan Qashqai 1.3 DIG-T Acenta 4x2 103kW,46192,16500,1,1,3,1,9
+165,216,Nissan Juke 1.6 N-Connecta 4x2 112,46287,11790,1,19,3,1,9
+166,217,Nissan Leaf 62 kWh e+ N-Connecta,53313,16990,1,12,4,2,10
+167,218,Nissan X-Trail 1.6 dCi N-Connecta 4x2 7 pl.,69756,18172,1,20,6,1,8
+168,219,Nissan Juke 1.5dCi S&S Tekna Premium Piel 18´´,152000,9450,1,15,6,1,4
+169,220,Nissan Qashqai dCi 81 kW (110 CV) ACENTA,120000,12790,1,15,6,1,8
+170,221,Nissan Micra IG-T Acenta 92,28887,11190,1,22,3,1,12
+171,222,Nissan Micra IG-T Acenta 92,28887,11190,1,22,3,1,12
+172,223,Nissan X-Trail 1.7 dCi Tekna 4x2,50964,21490,1,10,6,1,9
+173,224,Nissan Micra IG-T Acenta 92,32984,11190,1,22,3,1,12
+174,225,Nissan Micra 1.2 Acenta,79815,6750,1,29,3,1,2
+175,226,Nissan Pulsar 1.5 dCi Acenta,251299,5000,1,15,6,1,5
+176,227,Nissan Micra IG-T Acenta 92,37394,11190,1,22,3,1,12
+177,228,Nissan 350Z Roadster Pack,67500,17900,1,35,3,1,23
+178,229,"Nissan Micra 1.0 N-CONNECTA 120CV 5P S/S # NAVY,CAMARA TRASERA",37269,12800,1,36,3,1,10
+179,230,Nissan Micra IG-T Acenta 92,37394,11190,1,22,3,1,12
+180,232,Nissan Micra IG-T Acenta 92,37394,11190,1,22,3,1,12
+181,233,Nissan Juke 1.5dCi Acenta,197000,8000,1,15,6,1,1
+182,234,Nissan Murano 2.5dCi Tekna Sport Aut.,177000,12499,1,3,6,2,4
+183,235,Nissan Juke DIG-T 84 kW (114 CV) 6M/T Acenta,65922,13360,1,4,3,1,11
+184,236,Nissan X-Trail 2.0 dCi Tekna 4x4-i XTronic,116000,18850,1,37,6,2,7
+185,237,Nissan Qashqai 2.0 Acenta 4x4,238000,6899,1,27,3,2,16
+186,238,Nissan Micra IG-T Acenta 92,32472,11190,1,22,3,1,12
+187,239,Nissan Micra IG-T Acenta 92,32472,11190,1,22,3,1,12
+188,240,Nissan Micra 1.5dCi S&S Business 90,167592,8490,1,32,6,1,9
+189,241,Nissan Micra IG-T N-Desing Black 92,48710,11385,1,22,3,1,12
+190,242,Nissan Juke 5P 1.0 DIG-T 84 KW (114 CV) E6D-F 6 M/T ENIGMA,57363,16550,1,4,3,1,12
+191,243,Nissan 370Z 3.7 NISMO,94000,31900,1,38,3,1,4
+192,244,Nissan Micra 1.5dCi S&S Acenta 90,130704,10590,1,32,6,1,9
+193,245,Nissan Micra 1.5dCi S&S Acenta 90,130704,10590,1,32,6,1,9
+194,246,Nissan Micra 1.5dCi S&S Acenta 90,130704,10590,1,32,6,1,9
+195,247,Nissan Micra 1.5dCi S&S Acenta 90,130704,10590,1,32,6,1,9
+196,248,Nissan Qashqai 1.3 DIG-T Acenta 4x2 103kW,41271,16575,1,1,3,1,9
+197,249,Nissan Qashqai 1.7dCI Tekna+ 4x4-I,185111,14000,1,10,6,1,11
+198,250,Nissan Qashqai 1.2 DIG-T Acenta 4x2,158000,10999,1,18,3,1,5
+199,251,Nissan Juke DIG-T EU6 85 kW (115 CV) 6M/T ACENTA,56999,11490,1,18,3,1,7
+200,253,Nissan Qashqai 2.0 Acenta 4x4,178000,8498,1,27,3,1,19
+201,254,Nissan Juke DIG-T 84 kW (114 CV) 6M/T Acenta,50078,14270,1,4,3,1,11
+202,255,Nissan 350Z 350 Z Premium Pack,93000,45000,1,39,3,1,24
+203,256,Nissan Qashqai 1.3 DIG-T mHEV 12V Acenta 4x2 103kW,15674,21909,1,1,3,1,13
+204,257,Nissan NP300 Navara 2.3dCi DCb. Tekna 7AT 190,125000,27750,1,3,6,1,6
+205,258,Nissan Leaf 62 kWh e+ Acenta,5922,22390,1,12,4,2,13
+206,259,Nissan Micra 0.9 IG-T ACENTA 90 5P,64322,10300,1,32,3,1,8
+207,260,Nissan Micra IG-T Acenta 92,31361,11190,1,22,3,1,12
+208,261,Nissan Qashqai 1.3 DIG-T mHEV 12V Acenta 4x2 103kW,19161,21636,1,1,3,1,13
+209,262,Nissan Qashqai dCi 85 kW (115 CV) E6D ACENTA,115000,14490,1,18,6,1,8
+210,263,Nissan Note 1.5dCi Acenta,133900,7950,1,32,6,1,5
+211,264,Nissan Qashqai dCi 85 kW (115 CV) E6D ACENTA,190567,12775,1,18,6,1,9
+212,265,Nissan Qashqai DIG-T 103 kW (140 CV) E6D N-STYLE,102600,15900,1,1,3,1,9
+213,266,Nissan Juke 1.2 DIG-T Tekna 4x2 115,58000,13890,1,18,3,1,8
+214,267,Nissan Qashqai 1.6dCi Tekna Sport 4x2 18´´,154000,10699,1,20,6,1,3
+215,268,Nissan Qashqai 1.2 Acenta,55803,13099,1,18,3,1,5
+216,269,Nissan Qashqai 1.2 DIG-T Acenta 4x2,57681,15273,1,18,3,1,6
+217,270,Nissan Micra 1.2 Acenta,20956,9900,1,29,3,1,6
+218,271,Nissan Qashqai 1.5dCi Tekna 4x2,98000,16500,1,15,6,1,10
+219,272,Nissan Pulsar 1.5 dCi Acenta,76587,11500,1,15,6,1,6
+220,274,Nissan Qashqai dCi 85 kW 115 CV E6D ACENTA,97011,16190,1,18,6,1,9
+221,275,Nissan Juke 1.0 DIG-T N-Connecta 4x2 114,62351,15200,1,4,3,1,12
+222,276,Nissan Qashqai 1.3 DIG-T mHEV 12V Acenta 4x2 103kW,15430,21545,1,1,3,1,13
+223,277,Nissan Micra IG-T Acenta 92,37394,11190,1,22,3,1,12
+224,278,Nissan Qashqai 1.2 DIG-T N-Connecta 4x2 XTronic,97090,15091,1,18,3,2,7
+225,279,Nissan Micra 1.2 Visia,66394,8772,1,29,3,1,7
+226,280,Nissan Leaf Acenta,79720,7990,1,26,4,2,5
+227,281,Nissan Qashqai 1.2 DIG-T Acenta 4x2,110940,11999,1,18,3,1,4
+228,282,Nissan Qashqai 1.2 DIG-T Acenta 4x2,33509,15045,1,18,3,1,7
+229,283,Nissan Note 1.2 Acenta,78793,9050,1,29,3,1,6
+230,284,Nissan Micra IG-T 74 kW (100 CV) E6D Acenta,54225,10490,1,23,3,1,9
+231,285,Nissan Leaf Acenta 30KWh,99000,8590,1,26,4,2,6
+232,286,Nissan Qashqai 1.3 DIG-T N-Connecta 4x2 103kW,99166,15650,1,1,3,1,8
+233,287,Nissan Qashqai 1.3 DIG-T Acenta 4x2 103kW,46253,15636,1,1,3,1,9
+234,288,Nissan Micra IG-T Acenta 92,28887,11190,1,22,3,1,12
+235,289,Nissan Micra IG-T Acenta 92,32472,11190,1,22,3,1,12
+236,290,Nissan Qashqai 1.5dCi N-Connecta 4x2 85kW,36476,18172,1,18,6,1,9
+237,291,Nissan Qashqai 1.6 NConnecta,95189,14199,1,6,3,1,7
+238,292,Nissan Juke 1.5dCi Acenta,78000,13990,1,15,6,1,9
+239,293,Nissan Qashqai 1.5dCi Acenta 4x2,81702,12990,1,15,6,1,5
+240,295,Nissan GT-R 3.8 V6 570 Aut. T-Spec,160,145000,1,16,3,2,14
+241,296,Nissan Juke 1.2 Acenta,32543,13299,1,18,3,1,8
+242,297,Nissan Juke 1.2 DIG-T Acenta 4x2 115,73926,11500,1,18,3,1,5
+243,298,Nissan Micra IG-T S&S Acenta 90,94179,9990,1,32,3,1,8
+244,299,Nissan Leaf 40 kWh Acenta,8502,13890,1,12,4,2,9
+245,300,Nissan X-Trail 1.6 dCi 360 4x2 XTronic,207755,13490,1,20,6,2,5
+246,301,Nissan Leaf 5p 109 CV Visia,35535,8880,1,26,4,2,4
+247,302,Nissan Qashqai 1.3 DIG-T mHEV 12V N-Connecta 4x2 103kW,25403,21590,1,1,3,1,13
+248,303,Nissan Juke 1.0 DIG-T N-Connecta 4x2 114,16659,19500,1,4,3,1,13
+249,304,Nissan Micra IG-T Acenta 92,26131,11790,1,22,3,1,13
+250,305,Nissan Micra IG-T Acenta 92,26131,11790,1,22,3,1,13
+251,306,Nissan Leaf 40 kWh Acenta,8502,13890,1,12,4,2,9
+252,307,Nissan Qashqai 1.6dCi N-Tec 4x2 XTronic,169201,12300,1,20,6,2,4
+253,308,Nissan Qashqai 1.6dCi Tekna Premium 4x2 XTronic,132428,13990,1,20,6,2,4
+254,309,Nissan Qashqai 1.2 DIG-T Acenta 4x2,108779,13950,1,18,3,1,5
+255,310,Nissan Pulsar 1.2 DIG-T N-Connecta XTronic,128000,9490,1,18,3,2,6
+256,311,Nissan Juke 1.2 DIG-T Acenta 4x2 115,127265,10490,1,18,3,1,6
+257,312,Nissan Qashqai 1.3 DIG-T mHEV 12V Acenta 4x2 103kW,23054,21272,1,1,3,1,13
+258,313,Nissan GT-R Black Edition Aut.,95650,97500,1,40,3,2,1
+259,314,Nissan Micra N-Connecta,71850,10400,1,32,6,1,8
+260,316,Nissan Juke 1.6 N-Connecta 4x2 112,92523,12380,1,19,3,1,9
+261,317,Nissan Juke 1.0 DIG-T N-Connecta 4x2 114,36279,15618,1,4,3,1,11
+262,318,Nissan Juke 1.5dCi N-Connecta 4x2,115000,11490,1,15,6,1,8
+263,319,Nissan Qashqai 2.0dCi Acenta 4x2,223000,6500,1,10,6,1,23
+264,320,Nissan Micra IG-T Acenta 100,22362,13100,1,23,3,1,10
+265,321,Nissan Micra IG-T Acenta 92,32984,11190,1,22,3,1,12
+266,322,Nissan Qashqai 1.5 dCi TEKNA PIEL,159000,13900,1,15,6,1,7
+267,323,Nissan Juke 1.2 DIG-T Acenta 4x2 115,127265,10490,1,18,3,1,6
+268,324,Nissan Qashqai 1.5dCi Acenta 4x2 85kW,114401,14666,1,18,6,1,9
+269,325,"Nissan Qashqai 2.0 141cv TEKNA SPORT # CAMARA TRASERA, GPS",145100,10350,1,27,3,1,1
+270,326,Nissan Qashqai 1.3 DIG-T mHEV 12V Acenta 4x2 103kW,9632,22273,1,1,3,1,13
+271,327,Nissan Micra IG-T Acenta 92,26131,11790,1,22,3,1,13
+272,328,Nissan Juke 1.2 DIG-T Acenta 4x2 115,146629,8490,1,18,3,1,5
+273,329,Nissan Juke 1.6 DIG-T Tekna Premium 4x2 190,167000,10990,1,3,3,2,6
+274,330,Nissan Micra IG-T Acenta Sprint 92,40136,12490,1,22,3,1,12
+275,331,Nissan Juke 1.6 Tekna 4x2 112,78620,13773,1,19,3,1,9
+276,332,Nissan Qashqai 1.2 DIG-T N-Connecta 4x2,132000,12499,1,18,3,1,6
+277,333,Nissan Micra IG-T Acenta Sprint 92,42710,12990,1,22,3,1,13
+278,334,Nissan X-Trail 1.6 dCi N-Connecta 4x2,81112,17499,1,20,6,1,8
+279,335,Nissan Juke 1.6 Hybrid N-Connecta Auto,35335,20772,1,5,7,2,13
+280,337,Nissan Qashqai 2.0dCi Acenta 4x4,88000,10799,1,10,6,1,17
+281,338,Nissan Micra 5p IG-T TEKNA,39091,9990,1,32,3,1,7
+282,339,Nissan X-Trail 2.0 dCi N-Connecta 4x2 XTronic,93543,19363,1,37,6,2,8
+283,340,Nissan X-Trail 1.6 dCi Tekna 4x2 XTronic,96433,19081,1,20,6,2,8
+284,341,Nissan Qashqai 1.3 DIG-T Acenta 4x2 103kW,56385,17200,1,1,3,1,9
+285,342,Nissan Micra IG-T S&S Acenta 90,77000,12495,1,32,3,1,11
+286,343,Nissan Micra IG-T 68 kW (92 CV) E6D-F Acenta,11512,11790,1,22,3,1,12
+287,344,Nissan Tiida 1.5dCi Tekna,153813,5840,1,30,6,1,17
+288,345,Nissan Leaf 40 kWh Acenta Access,13124,14490,1,10,4,2,10
+289,346,Nissan Juke 1.6 DIG-T Tekna Premium CVT4x4,97842,10990,1,3,3,2,2
+290,347,Nissan Note 1.5dCi Tekna Premium,184000,7500,1,32,6,1,3
+291,348,Nissan Qashqai QASHQAI+2 2.0 DCI TEKNA SPORT 4X2 150 5P 7 PL,132236,9800,1,10,6,1,17
+292,349,Nissan Juke 1.0 DIG-T N-Connecta 4x2 114,11707,19772,1,4,3,1,13
+293,350,Nissan Juke DIGT 86 kW 117 CV 6 MT ACENTA,74410,16299,1,21,3,1,10
+294,351,Nissan Qashqai 1.6dCi Tekna 4x2 XTronic 19´´,162000,11999,1,20,6,2,4
+295,352,Nissan Qashqai 1.3 DIG-T MHEV 116KW ACENTA CVT 2WD,5322,27000,1,2,3,2,14
+296,353,Nissan Qashqai 1.5dCi Acenta 4x2,136837,7990,1,30,6,1,16
+297,354,Nissan X-Trail 1.6 dCi Tekna 4x2,119213,17454,1,20,6,1,8
+298,355,Nissan Qashqai Q+2 1.6dCi S&S Tekna Premium 4x2 18´´,153848,12450,1,20,6,1,3
+299,356,Nissan X-Trail 1.6 dCi N-Connecta 4x2,127683,18000,1,20,6,1,8
+300,358,Nissan Qashqai 1.5dCi Acenta 4x2 85kW,58416,17999,1,18,6,1,9
+301,359,Nissan Qashqai 1.3 DIG-T Acenta 4x2 103kW,35565,17690,1,1,3,1,10
+302,360,Nissan Qashqai 1.3 DIG-T mHEV 12V Acenta 4x2 103kW,23538,21718,1,1,3,1,13
+303,361,Nissan Qashqai 1.5dCi Acenta 4x2,115000,14990,1,15,6,1,7
+304,362,Nissan Qashqai 1.2 DIG-T Acenta 4x2,77483,14943,1,18,3,1,6
+305,363,Nissan Qashqai 1.5dCi N-Connecta 4x2,94452,16536,1,15,6,1,8
+306,364,Nissan Qashqai 1.3 DIG-T mHEV 12V Acenta 4x2 103kW,11000,22990,1,1,3,1,13
+307,365,Nissan Qashqai DIG-T 103kW (140CV) mHEV 4x2 Acenta,71200,17790,1,1,7,1,11
+308,366,Nissan Qashqai 1.3 DIG-T mHEV 12V Acenta 4x2 103kW,17921,21500,1,1,3,1,13
+309,367,Nissan Pulsar 1.2 DIG-T N-Connecta XTronic,84512,11490,1,18,3,2,8
+310,368,Nissan Leaf 40 kWh N-Connecta,66367,15190,1,12,4,2,8
+311,369,Nissan Leaf 40 kWh N-Connecta,66367,15190,1,12,4,2,8
+312,370,Nissan Qashqai 1.5dCi Tekna Premium 4x2,276000,9999,1,15,6,1,5
+313,371,Nissan Leaf Visia+,78000,7999,1,26,4,2,4
+314,372,Nissan X-Trail 5P dCi 110 kW (150 CV) E6D CVT N-TEC,110748,16490,1,10,6,2,10
+315,373,Nissan Micra IG-T Acenta Sprint 92,20590,13990,1,22,3,1,13
+316,374,Nissan Qashqai 1.6 DIG-T N-Connecta 4x2,61644,15990,1,6,3,1,7
+317,375,Nissan Leaf 40 kWh Acenta Access,43280,12990,1,10,4,2,8
+318,376,Nissan Leaf 40 kWh Acenta Access,43280,12990,1,10,4,2,8
+319,377,Nissan Juke 1.6 DIG-T Tekna Premium,180000,8500,1,3,3,1,1
+320,379,Nissan Micra 1.5dCi S&S N-Connecta 90,54483,11490,1,32,6,1,7
+321,380,Nissan Micra 0.9 Turbo Lifestyle,104596,10099,1,32,3,1,8
+322,381,Nissan Qashqai 1.3 DIG-T mHEV 12V N-Connecta 4x2 103kW,31285,21290,1,1,3,1,13
+323,382,Nissan Qashqai 1.5dCi N-Connecta 4x2 85kW,103796,16190,1,18,6,1,9
+324,383,Nissan Leaf 40 kWh Acenta,54990,12390,1,10,4,2,10
+325,384,Nissan Qashqai Q+2 2.0dCi Acenta 4x2,150000,10195,1,10,6,1,19
+326,385,Nissan Qashqai 1.3 DIG-T Acenta 4x2 103kW,80021,17100,1,1,3,1,10
+327,386,Nissan X-Trail 1.6 dCi N-Connecta 4x2 XTronic 7 pl.,157459,15272,1,20,6,2,7
+328,387,Nissan Tiida 1.5dCi Acenta,210000,3300,1,30,6,1,16
+329,388,Nissan Qashqai 1.3 DIG-T mHEV 12V Acenta 4x2 103kW,10678,21990,1,1,3,1,13
+330,389,Nissan Qashqai 1.3 DIG-T mHEV 12V Acenta 4x2 103kW,18601,21809,1,1,3,1,13
+331,390,Nissan X-Trail 1.5 e-Power N-Connecta e-4orce 4x4 7pl. 158kW,10,35990,1,41,3,2,13
+332,391,Nissan X-Trail 1.7 dCi N-Connecta 4x2,58554,21263,1,10,6,1,10
+333,392,Nissan Qashqai 1.6dCi Acenta 4x2,209999,12800,1,20,6,1,10
+334,393,Nissan Micra IG-T Acenta 92,51054,12990,1,22,3,1,10
+335,394,Nissan Qashqai 1.3 DIG-T mHEV 12V Acenta 4x2 103kW,20411,21772,1,1,3,1,13
+336,395,Nissan Leaf 40 kWh Acenta,8502,13890,1,12,4,2,9
+337,396,Nissan Juke 1.0 DIG-T N-Connecta 4x2 114,21619,19354,1,4,3,1,13
+338,397,Nissan Leaf 40 kWh Acenta,18814,13890,1,12,4,2,9
+339,398,Nissan Qashqai Q+2 1.5dCi Acenta 4x2,148439,11500,1,15,6,1,2
+340,400,Nissan 370Z 3p 3.7G 328 CV (241 kW) GT,73982,26490,1,42,3,1,6
+341,401,Nissan Leaf 62 kWh e+ N-Connecta,35000,17999,1,12,4,2,11
+342,402,Nissan Juke 1.6i Acenta CVT,97146,11200,1,21,3,2,2
+343,403,Nissan Leaf 40 kWh Acenta Access,43280,12990,1,10,4,2,8
+344,404,Nissan Qashqai 1.3 DIG-T N-Connecta 4x2 103kW,38361,18094,1,1,3,1,10
+345,405,Nissan Juke 1.0 DIG-T N-Connecta 4x2 114,21281,19363,1,4,3,1,13
+346,407,Nissan Qashqai 1.2 Acenta,88217,14999,1,18,3,1,8
+347,408,Nissan Juke DIG-T 84 kW (114 CV) 6M/T N-Connecta,20963,15450,1,4,3,1,11
+348,409,Nissan Qashqai 1.3 DIG-T mHEV 12V N-Connecta 4x2 Aut. 116kW,8028,25890,1,2,3,2,14
+349,410,Nissan Qashqai 1.3 DIG-T mHEV 12V N-Connecta 4x2 Aut. 116kW,8028,25890,1,2,3,2,14
+350,412,Nissan Leaf 40 kWh Acenta Access,43280,12990,1,10,4,2,8
+351,413,Nissan Leaf 40 kWh Acenta,34000,13999,1,10,4,2,10
+352,414,Nissan Qashqai 1.3 DIG-T N-Connecta 4x2 DCT 117kW,22249,21445,1,43,3,2,10
+353,415,Nissan Micra IG-T Acenta 92,32984,11190,1,22,3,1,12
+354,416,Nissan Juke DIG-T 86 kW (117 CV) 6 M/T ACENTA,37513,16500,1,21,3,1,10
+355,417,Nissan Pulsar 1.5 dCi Acenta,97097,12850,1,15,6,1,7
+356,418,Nissan Qashqai 1.6 DIG-T Tekna 4x2,78000,15190,1,6,3,1,6
+357,419,Nissan Juke 1.5dCi Acenta 4x2,170347,9200,1,15,6,1,5
